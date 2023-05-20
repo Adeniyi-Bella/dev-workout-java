@@ -3,12 +3,11 @@
 	/* width: 300px; */
 	margin: 0 50px;
     padding: 30px;
-	/* padding: 25px; */
 }
 
 .TeamMember img {
 	width: -webkit-fill-available;
-	height: 350px;
+	height: 300px;
 }
 
 .TeamMember div {
