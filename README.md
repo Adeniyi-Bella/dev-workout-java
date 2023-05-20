@@ -1,4 +1,4 @@
-# DEVELOPER WORKOUT (Java) for micromerce gmbh
+# DEVELOPER WORKOUT
 
 ![image](https://github.com/Adeniyi-Bella/dev-workout-java/assets/37347588/6b416d2e-01dc-468c-b94e-f755baac40e3)
 
