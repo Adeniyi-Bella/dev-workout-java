@@ -14,8 +14,8 @@ Aufgabe ist es eine Spring Boot Anwendung zu erstelle, welche über die REST-Sch
 - ... feel free to add some sugar to show your skills
 
 ## Technologies ##
-- Frontend was bootstrapped with vite.js.
-- Backend was bootstrapped with springboot and gradle as build tool according to the requirement.
+- Frontend was a react project bootstrapped with vite.js.
+- Backend was a java project bootstrapped with springboot and gradle as build tool according to the requirement.
 
 ## Good to know ##
 - /articles returns all the articles
