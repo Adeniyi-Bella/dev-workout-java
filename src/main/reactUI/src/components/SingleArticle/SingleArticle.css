@@ -1,0 +1,37 @@
+.TeamMember {
+	/* border: 1px solid black; */
+	/* width: 300px; */
+	margin: 0 50px;
+    padding: 30px;
+	/* padding: 25px; */
+}
+
+.TeamMember img {
+	width: -webkit-fill-available;
+	height: 350px;
+}
+
+.TeamMember div {
+	padding-top: 10px;
+	text-align: left;
+	/* height: 150px; */
+}
+
+.TeamMember.selected {
+	background-color: #39f;
+}
+
+.TagParent{
+    display: flex;
+	gap: 20px;
+	flex-flow: wrap;
+	
+}
+
+@media (min-width: 1000px) {
+    .TagParent {
+        display: flex;
+		flex-wrap: wrap;
+    }
+  
+  }
