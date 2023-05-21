@@ -23,16 +23,19 @@ Aufgabe ist es eine Spring Boot Anwendung zu erstelle, welche über die REST-Sch
 - No DB or DB migration was considered for this project. The rest controller consumed json data directly from the json file in resources. 
 
 ## Getting started ##
-- First run the back end
+- First clone the repo.
+- cd into repo directory.
+- Start the server
 ```
 directly from the IDE UI e.g intellij
 # or
 ./gradlew bootRun
 ```
 - The server is availale locally on port 8080
-- Secondly, run the frontend
+- Start the frontend
 ```
 cd into src/main/reactUI
+npm i
 npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
